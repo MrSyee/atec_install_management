@@ -1,0 +1,57 @@
+0
+
+
+
+
+
+
+
+
+
+
+
+#SCRIPT_EDIT_SOURCE
+
+
+폼을 열면 다음 문단을 실행한다.
+{
+	//폼의 기본검색키동작을 실행한다.
+	로그인여부는 전역정보의 "로그인여부"를 참조한다.
+	현재아이디는 전역정보의 "로그인아이디"를 참조한다.
+	DB처리문("사용자이름찾기")을 실행한다.
+	실행결과가 1이면 현재이름은 _name을 참조한다.
+	사용자이름은 현재이름으로 설정한다.
+	
+	검색의 검색을 실행한다.
+	//DB처리문("날짜찾아오기")를 실행한다.
+
+	//DB처리문("프로젝트_찾아오기")를 실행한다.
+	manual은 매뉴얼을 참조한다.
+	backup은 백업을 참조한다.
+	pg는 별도pg를 참조한다.
+	submis_method_scan은 스캔본제출방법을 참조한다.
+	submis_method_origin은 원본제출방법을 참조한다.
+
+}
+
+submis_method_scan에서 항목의 선택을 변경하면 다음 문단을 실행한다.
+{
+	submis_method_scan이 "선"이면 submis_method_origin은 "후"를 참조한다.
+	submis_method_scan이 "후"이면 submis_method_origin은 "선"를 참조한다.
+}
+
+submis_method_origin에서 항목의 선택을 변경하면 다음 문단을 실행한다.
+{
+	submis_method_origin이 "선"이면 submis_method_scan은 "후"를 참조한다.
+	submis_method_origin이 "후"이면 submis_method_scan은 "선"를 참조한다.
+}
+
+문단 로그아웃하기()
+{
+	전역정보의 "로그인여부"를 "로그아웃"으로 설정한다.
+	
+	레지스트리경로는 "HKEY_LOCAL_MACHINE\\Software\\login"를 참조한다.
+	등록정보(레지스트리경로,"autologin")은 "N"로 설정한다.
+
+	폼을 종료한다.
+}

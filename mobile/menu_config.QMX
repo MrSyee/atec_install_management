@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl'?>
+<MenuData ImagesBaseURL="images/" DefaultItemSpacing="1" DefaultGroupCssCla="MenuGroup" DefaultItemCssCla="MenuItem" DefaultItemCssClassOver="MenuItemOver" xmln="ASP.NET Menu MenuData Schema">
+  <MenuGroup>
+    <MenuItem Label="intro" ClientSideOnClick="OpenFrm('intro.QPM$$$False$6$전사공통$')" UPSUrl="intro.QPM" ConnectionMenu="N" JobLevel="7" GroupLevel="전사공통" AccessLevel="" ImagePath="" RolloverPath="" Key="1" Parent="0" LV="1" HasChild="true">
+      <MenuGroup>
+        <MenuItem Label="login" ClientSideOnClick="OpenFrm('login.QPM$$$False$6$전사공통$')" UPSUrl="login.QPM" ConnectionMenu="N" JobLevel="7" GroupLevel="전사공통" AccessLevel="" ImagePath="" RolloverPath="" Key="2" Parent="1" LV="2" HasChild="true">
+          <MenuGroup>
+            <MenuItem Label="submit" ClientSideOnClick="OpenFrm('submit.QPM$$$False$6$전사공통$')" UPSUrl="submit.QPM" ConnectionMenu="N" JobLevel="7" GroupLevel="전사공통" AccessLevel="" ImagePath="" RolloverPath="" Key="3" Parent="2" LV="3" HasChild="false" />
+            <MenuItem Label="mypage" ClientSideOnClick="OpenFrm('mypage.QPM$$$False$6$전사공통$')" UPSUrl="mypage.QPM" ConnectionMenu="N" JobLevel="7" GroupLevel="전사공통" AccessLevel="" ImagePath="" RolloverPath="" Key="4" Parent="2" LV="3" HasChild="true">
+              <MenuGroup>
+                <MenuItem Label="logout_popup" ClientSideOnClick="OpenFrm('logout_popup.QPM$$$False$6$전사공통$')" UPSUrl="logout_popup.QPM" ConnectionMenu="N" JobLevel="7" GroupLevel="전사공통" AccessLevel="" ImagePath="" RolloverPath="" Key="5" Parent="4" LV="4" HasChild="false" />
+              </MenuGroup>
+            </MenuItem>
+          </MenuGroup>
+        </MenuItem>
+      </MenuGroup>
+    </MenuItem>
+  </MenuGroup>
+</MenuData>
