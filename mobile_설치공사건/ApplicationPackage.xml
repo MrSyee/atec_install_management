@@ -19,7 +19,7 @@
   <ProjectName>login</ProjectName>
   <PackageName>install_mob</PackageName>
   <PackageFolder>C:\SmartMaker\SmartBuilder\Application\앱패키지</PackageFolder>
-  <IconFile>C:\Users\USER\Desktop\installation_manager\mobile\앱 아이콘.png</IconFile>
+  <IconFile>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\앱 아이콘.png</IconFile>
   <VersionName />
   <VersionCode />
   <ManifestDescription />
@@ -32,7 +32,7 @@
   <UseLocalApp>false</UseLocalApp>
   <DepInfo>8201051153748$01051153748$DB01051153748$01051153748$6$DB01051153748</DepInfo>
   <DatabaseName />
-  <ModelFolder>C:\Users\USER\Desktop\installation_manager\mobile</ModelFolder>
+  <ModelFolder>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건</ModelFolder>
   <ProductID />
   <ProductName>install_mob</ProductName>
   <Description>install_mob</Description>
@@ -53,7 +53,7 @@
   <ImagePath3 />
   <MediaHelp />
   <RegisterDate />
-  <CreateDate>20171110055755</CreateDate>
+  <CreateDate>20171113060801</CreateDate>
   <LicenseNumber>2808905466</LicenseNumber>
   <LicenseCompany>ck2728720000361708</LicenseCompany>
   <ProjectCode />
@@ -79,7 +79,7 @@
   <FontExtractType>0</FontExtractType>
   <IsSBookPackingForAndIos>false</IsSBookPackingForAndIos>
   <IsAdAppPacking>false</IsAdAppPacking>
-  <LogoFile>C:\Users\USER\Desktop\installation_manager\mobile\01시작페이지_ver2.png</LogoFile>
+  <LogoFile>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\01시작페이지_ver2.png</LogoFile>
   <PcServerKind>2</PcServerKind>
   <PcServerInfor>http%3a%2f%2fcloud.smartmaker.com</PcServerInfor>
   <ShowMarket>true</ShowMarket>
