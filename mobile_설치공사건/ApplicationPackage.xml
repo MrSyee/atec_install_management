@@ -4,8 +4,8 @@
   <Effect>설치 관리의 편의 도움</Effect>
   <MainFunction>설치 관리</MainFunction>
   <Advantage>설치 관리</Advantage>
-  <TestApp>false</TestApp>
-  <ApkFileSize>1.41MB</ApkFileSize>
+  <TestApp>true</TestApp>
+  <ApkFileSize>1.40MB</ApkFileSize>
   <CateGroupCode>102</CateGroupCode>
   <CateIndustryCode />
   <CateJobCode />
@@ -53,7 +53,7 @@
   <ImagePath3 />
   <MediaHelp />
   <RegisterDate />
-  <CreateDate>20171117060711</CreateDate>
+  <CreateDate>20171120054701</CreateDate>
   <LicenseNumber>2808905466</LicenseNumber>
   <LicenseCompany>ck2728720000361708</LicenseCompany>
   <ProjectCode />

@@ -4,8 +4,8 @@
   <Effect>설치 관리의 편의 도움</Effect>
   <MainFunction>설치 관리</MainFunction>
   <Advantage>설치 관리</Advantage>
-  <TestApp>false</TestApp>
-  <ApkFileSize>1.41MB</ApkFileSize>
+  <TestApp>true</TestApp>
+  <ApkFileSize>1.40MB</ApkFileSize>
   <CateGroupCode>102</CateGroupCode>
   <CateIndustryCode />
   <CateJobCode />
@@ -17,7 +17,7 @@
   <MarketMainImagePath>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\앱 아이콘_r.png</MarketMainImagePath>
   <MarketVersion>1.0</MarketVersion>
   <ProjectName>login</ProjectName>
-  <PackageName>install_mob</PackageName>
+  <PackageName>install_mob_test</PackageName>
   <PackageFolder>C:\SmartMaker\SmartBuilder\Application\앱패키지</PackageFolder>
   <IconFile>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\앱 아이콘.png</IconFile>
   <VersionName />
@@ -32,7 +32,7 @@
   <UseLocalApp>false</UseLocalApp>
   <DepInfo>8201051153748$01051153748$DB01051153748$01051153748$6$DB01051153748</DepInfo>
   <DatabaseName />
-  <ModelFolder>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건</ModelFolder>
+  <ModelFolder>C:\Users\USER\Desktop\installation_manager\mobile_자사설치건</ModelFolder>
   <ProductID />
   <ProductName>install_mob</ProductName>
   <Description>설치 작업 시 정보들을 쉽게 관리하고 설치를 완료한 후 사진 등을 빠르게 공유할 수 있다.</Description>
@@ -53,8 +53,8 @@
   <ImagePath3 />
   <MediaHelp />
   <RegisterDate />
-  <CreateDate>20171117060711</CreateDate>
-  <LicenseNumber>2808905466</LicenseNumber>
+  <CreateDate>20171120044931</CreateDate>
+  <LicenseNumber>1833039836</LicenseNumber>
   <LicenseCompany>ck2728720000361708</LicenseCompany>
   <ProjectCode />
   <SellerID>8201051153748</SellerID>
