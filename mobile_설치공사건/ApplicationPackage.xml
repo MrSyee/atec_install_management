@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValueDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MainUser>회사</MainUser>
-  <Effect>설치 관리</Effect>
+  <Effect>설치 관리의 편의 도움</Effect>
   <MainFunction>설치 관리</MainFunction>
   <Advantage>설치 관리</Advantage>
-  <TestApp>true</TestApp>
-  <ApkFileSize>1.42MB</ApkFileSize>
+  <TestApp>false</TestApp>
+  <ApkFileSize>1.41MB</ApkFileSize>
   <CateGroupCode>102</CateGroupCode>
   <CateIndustryCode />
   <CateJobCode />
@@ -14,7 +14,7 @@
   <KeyWord>설치관리</KeyWord>
   <KeyWord1 />
   <KeyWord2 />
-  <MarketMainImagePath>C:\Users\USER\Desktop\installation_manager\mobile\메인샘플.jpg</MarketMainImagePath>
+  <MarketMainImagePath>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\앱 아이콘_r.png</MarketMainImagePath>
   <MarketVersion>1.0</MarketVersion>
   <ProjectName>login</ProjectName>
   <PackageName>install_mob</PackageName>
@@ -35,8 +35,8 @@
   <ModelFolder>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건</ModelFolder>
   <ProductID />
   <ProductName>install_mob</ProductName>
-  <Description>install_mob</Description>
-  <Summary>install_mob</Summary>
+  <Description>설치 작업 시 정보들을 쉽게 관리하고 설치를 완료한 후 사진 등을 빠르게 공유할 수 있다.</Description>
+  <Summary>설치 등록을 편리하게 관리 할 수 있다.</Summary>
   <ProductCategory>0</ProductCategory>
   <ProductPart>0</ProductPart>
   <WebPage />
@@ -45,15 +45,15 @@
   <SellType>0</SellType>
   <Price>0</Price>
   <AdvertType>0</AdvertType>
-  <TrialPeriod>30</TrialPeriod>
-  <TrialApp>true</TrialApp>
-  <ImagePath />
+  <TrialPeriod>0</TrialPeriod>
+  <TrialApp>false</TrialApp>
+  <ImagePath>C:\Users\USER\Desktop\installation_manager\mobile_설치공사건\01시작페이지_ver2.png</ImagePath>
   <ImagePath1 />
   <ImagePath2 />
   <ImagePath3 />
   <MediaHelp />
   <RegisterDate />
-  <CreateDate>20171113060801</CreateDate>
+  <CreateDate>20171117060711</CreateDate>
   <LicenseNumber>2808905466</LicenseNumber>
   <LicenseCompany>ck2728720000361708</LicenseCompany>
   <ProjectCode />
